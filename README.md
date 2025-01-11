@@ -6,18 +6,17 @@ Welcome to **DishCraft**, your ultimate companion for discovering and cooking de
 
 ### 🍳 **API Integration** 
 - Fetch real-time recipe data from a reliable API.
-- Ever-growing list of recipes that are updated regularly.
 
 ### 🍔 **Recipe Details Page** 
 - Dive deep into each recipe with:
   - Clear and easy-to-follow **instructions**.
   - Full list of **ingredients**.
-  - Expert **cooking tips** to help you succeed in the kitchen.
+ 
 
 ### 📱 **User-Friendly Interface**
 - Designed with **ease of navigation** in mind.
 - Intuitive **layouts** and visually appealing pages for an engaging cooking experience.
-- **Dark & Light modes** for different preferences.
+
 
 ## **Screenshots & Demo:**
 click to load the video
@@ -38,4 +37,4 @@ click to load the video
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/anettaj/dishcraft.git
+   git clone https://github.com/anettaj/DishCraft.git
