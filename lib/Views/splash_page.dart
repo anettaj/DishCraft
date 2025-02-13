@@ -10,8 +10,8 @@ class SplashPage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    // String imageurl='https://res.cloudinary.com/dljwalapq/image/upload/v1736614476/recepies/Pngtree_chicken_biryani_halal_food_14674148_qsikok.png';
-    String imageurl='https://res.cloudinary.com/dljwalapq/image/upload/v1736616154/recepies/ic_popular_food_6_fbvprl.png';
+    String imageurl='https://res.cloudinary.com/dljwalapq/image/upload/v1736614476/recepies/Pngtree_chicken_biryani_halal_food_14674148_qsikok.png';
+    // String imageurl='https://res.cloudinary.com/dljwalapq/image/upload/v1736616154/recepies/ic_popular_food_6_fbvprl.png';
     return Scaffold(
       backgroundColor: bgColor,
       body: Padding(
